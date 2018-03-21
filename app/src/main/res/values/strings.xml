@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Ridiculous Recipes</string>
+    <string name="enter_recipe_database">Search For a Recipe</string>
+    <string name="search">Search</string>
+    <string name="title">title</string>
+    <string name="recPic">Recipe Picture</string>
+    <string name="recipe_description">Recipe Description</string>
+    <string name="servings">Number of Servings</string>
+    <string name="prepTime">Prep Time</string>
+    <string name="dietLabel">Diet Label</string>
+    <string name="viewAllRecipes">View All Recipes</string>
+    <string name="recList">Recipe List</string>
+    <string name="servingsString">Servings:    </string>
+    <string name="dietLabelString">Diet Label:    </string>
+    <string name="timeToPrepareString">Time to Prepare:    </string>
+    <string name="urlButton">Click to Find This Recipe! :D</string>
+    <string-array name="dietRestriction">
+        <item>No Preference</item>
+        <item>Low-Sodium</item>
+        <item>Low-Carb</item>
+        <item>Balanced</item>
+        <item>Medium-Carb</item>
+        <item>Low-Fat</item>
+        <item>Vegetarian</item>
+        <item>High-Carb</item>
+    </string-array>
+    
+    <string-array name="servingRestriction">
+        <item>No Preference</item>
+        <item>50</item>
+        <item>10</item>
+        <item>4</item>
+        <item>12</item>
+        <item>6</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="prepTime">
+        <item>No Preference</item>
+        <item>30 minutes or less</item>
+        <item>1 hour or less</item>
+        <item>More than 1 hour</item>
+
+    </string-array>
+</resources>
